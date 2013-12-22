@@ -426,7 +426,7 @@ check_system
 create_home
 check_virtualbox
 check_ext_pack
-check_unar
+#check_unar
 
 # Install each requested virtual machine sequentially.
 all_versions="6 7 8 9 10 11"
